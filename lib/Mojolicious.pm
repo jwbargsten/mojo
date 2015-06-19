@@ -711,29 +711,29 @@ L<http://www.apache.org/licenses/LICENSE-2.0>.
 Every major release of L<Mojolicious> has a code name, these are the ones that
 have been used in the past.
 
-6.0, C<Clinking Beer Mugs> (U+1F37B)
+🍻 6.0, C<Clinking Beer Mugs> (U+1F37B)
 
-5.0, C<Tiger Face> (u1F42F)
+🐯 5.0, C<Tiger Face> (U+1F42F)
 
-4.0, C<Top Hat> (u1F3A9)
+🎩 4.0, C<Top Hat> (U+1F3A9)
 
-3.0, C<Rainbow> (u1F308)
+🌈 3.0, C<Rainbow> (U+1F308)
 
-2.0, C<Leaf Fluttering In Wind> (u1F343)
+🍃 2.0, C<Leaf Fluttering In Wind> (U+1F343)
 
-1.4, C<Smiling Face With Sunglasses> (u1F60E)
+😎 1.4, C<Smiling Face With Sunglasses> (U+1F60E)
 
-1.3, C<Tropical Drink> (u1F379)
+🍹 1.3, C<Tropical Drink> (U+1F379)
 
-1.1, C<Smiling Cat Face With Heart-Shaped Eyes> (u1F63B)
+😻 1.1, C<Smiling Cat Face With Heart-Shaped Eyes> (U+1F63B)
 
-1.0, C<Snowflake> (u2744)
+❄ 1.0, C<Snowflake> (U+2744)
 
-0.999930, C<Hot Beverage> (u2615)
+☕ 0.999930, C<Hot Beverage> (U+2615)
 
-0.999927, C<Comet> (u2604)
+☄ 0.999927, C<Comet> (U+2604)
 
-0.999920, C<Snowman> (u2603)
+☃ 0.999920, C<Snowman> (U+2603)
 
 =head1 SPONSORS
 
